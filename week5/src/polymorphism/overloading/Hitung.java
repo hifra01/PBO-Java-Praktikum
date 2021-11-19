@@ -1,10 +1,5 @@
 package polymorphism.overloading;
 
-import sun.security.util.ArrayUtil;
-
-import java.util.Arrays;
-import java.util.Collections;
-
 public class Hitung {
 
     public static int maxNumber(int num1, int num2) {
